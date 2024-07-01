@@ -26,6 +26,7 @@
     <!-- /.card-header -->
 
     <!-- form start -->
+       <!-- Developed By Anjali Vishwakarma -->
     <form enctype="multipart/form-data" action="{{ route('semester.store') }}" method="post">
     @csrf
 
